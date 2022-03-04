@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/JustRudolph/justrudolph.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JustRudolph/justrudolph.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 👋 Hi, I’m @Daniello Grosso
+- 👀 I’m interested in video games such as Dota 2, CS:GO and other.
+- 🌱 I’m currently learning to code in html, javascript and arduino.
+- 📫 How to reach me: <br>
+<img alt="Instagram" src="https://pnggrid.com/wp-content/uploads/2021/06/Red-Instagram-Logo.png" width="15px" height="15px"/> [Instagram](https://www.instagram.com/danu_.gr/)<br>
+<img alt="Steam" src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="15px" height="15px"/> [Steam](https://steamcommunity.com/id/ruuddy/)<br>
+<img alt="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/1024px-Facebook_icon_2013.svg.png" width="15px" height="15px"/> [Facebook](https://www.facebook.com/daniel.grosu.9216/)<br>
